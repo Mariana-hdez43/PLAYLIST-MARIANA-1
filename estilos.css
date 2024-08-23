@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color:wheat;
+}
+
+h3, p{
+    color:black;
+    .centrado {
+        text-align: center;
+    }
+}
+
+h1{
+    color:rgb(44, 240, 214);
+    text-align: center;
+} 
+
+img {
+    width: 700px;
+    height: 700;
+}
+
+footer{
+    background-color: cadetblue;
+    padding: .5rem;
+}
+footer p{
+    text-align: center;
+}
+
+.secundaria{
+    display: flex;
+}
+
+.secundaria h2,p{
+    text-align: center;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    margin-bottom: .5rem;
+}
+.secundaria img{
+    width: 250px;
+    margin-left: 10rem;
+    border-radius: 100%;
+}
+
+#carouselExample{
+    width: 75%;
+    margin-left: 10rem;
+    margin-bottom: 2rem;
+}
+
+#carouselExample img{
+    width: 75%;
+}
+
+
+small{
+    color:white;
+}
